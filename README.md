@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=djonathan&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> Tenho 23 anos, sou desenvolvedor a 3 anos. Atualmente, estou me aprofundando no desenvolvimento web com Python e Django.<br/> </p>
+<p> Tenho 23 anos! Conheci a programação a 3 anose atualmente estou me aprofundando no desenvolvimento web com Python e Django.<br/> </p>
 
 #### Main Stack:
 
